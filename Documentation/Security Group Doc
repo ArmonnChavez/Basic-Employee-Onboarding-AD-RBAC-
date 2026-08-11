@@ -1,0 +1,9 @@
+Domain Name: NMG.com
+OUs created: Finance, HR, IT, Operations
+Security groups created: Finance-Users, HR-Users, IT-Users, Operations-Users
+Purpose of each OU: 
+Finance:Manage all finance documentation of the organization
+HR:Resouce to all people within the company
+Operations: Represents leadership and marketing team
+IT: Represents Helpdesk and security teams
+Date Completed: 8/3/26
